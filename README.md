@@ -12,3 +12,9 @@ Explore a collection of interactive R Shiny applications developed for biologica
 Each application is designed to make bioinformatics workflows more accessible, efficient, and reproducible for researchers and students.
 
 **Explore the applications below and access the corresponding source code and documentation.**
+
+
+**Tools Coming Soon** 
+
+I'm building a curated collection of bioinformatics tools and interactive applications for biological data analysis, data integration, and downstream analysis. New resources will be added soon.
+(Dr. Aftab)
